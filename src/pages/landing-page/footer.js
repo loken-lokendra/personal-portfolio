@@ -16,7 +16,7 @@ function Footer() {
       }}
     >
       <Avatar
-        src="https://path-to-your-avatar-image.jpg"
+        src="/images/profile-picture.jpg"
         alt="User Avatar"
         sx={{ width: 56, height: 56, mb: 1 }}
       />
@@ -28,7 +28,7 @@ function Footer() {
         © 2024. All rights reserved.
       </Typography>
       <Typography variant="body2" color="textprimary">
-        Made with by ❤️ Lokendra Patidar
+        Made with ❤️ by Lokendra Patidar.
       </Typography>
     </Box>
   );
